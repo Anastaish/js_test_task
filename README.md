@@ -1,1 +1,1 @@
-# ria_school_test
+# RIA.com School test project
