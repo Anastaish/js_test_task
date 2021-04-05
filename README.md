@@ -1,1 +1,1 @@
-# RIA.com School test project
+Test task implementation
